@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body {
+    background-color: beige;
+    max-width: 800px;
+    min-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+}
+header {
+    text-align: center;
+}
+h1,
+header div {
+    color: #27594E;
+    background-color: #F2D141;
+}
+h1 {
+    padding: 25px 10px;
+}
+header div {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 5px solid #CF6B40;
+    border-radius: 15px;
+    width: 250px;
+    margin: 0 auto;
+    padding: 10px;
+}
+option,
+select {
+    border-radius: 2px;
+    font-size: 15px;
+}
+option {
+    background-color: #F2D141;
+}
+p {
+    margin: 10px 0;
+    color: #636DA6;
+    font-weight: bold;
+}
+.wrapper {
+    margin: 10px auto;
+}
+.letters {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.letter {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    border: 1px solid black;
+    margin: 2px 5px;
+    font-size: 12px;
+}
+.eng,
+.notEng {
+    width: 100%;
+    padding: 2px;
+    text-align: center;
+    background-color: #27594E;
+    font-family: sans-serif;
+    color: white;
+}
+.notEng {
+    font-weight: bold;
+    font-size: 16px;
+    background-color: white;
+    color: #27594E;
+}
+.notEng:hover {
+    background-color: yellow;
+    cursor: pointer;
+}
+hr {
+    border-color: black;
+    width: 100%;
+}
+textarea {
+    display: flex;
+    margin: 20px auto;
+    width: 80%;
+    font-size: 1em;
+}
