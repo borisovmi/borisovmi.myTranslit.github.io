@@ -1,7 +1,5 @@
 ## Transliterator tool
 
-https://borisovmi.github.io/
-
 If you don't have some specific keyboard for your PC (i.e. Hebrew / Russian / etc.) and you still need to type something in one of these languages it becomes to be a problem. You don't know blind-typing and you don't want to deal with mouse-clicking on virtual keyboard.
 
 Here myTranslit comes to help you. It's a transliteration tool which converts English letters to phoneticaly same ones in another language. Example for Russian: "Слово" = "Slovo", example for Hebrew: "מילה" = "milh".
