@@ -1,6 +1,6 @@
 ## Transliterator tool
 
-# Live preview - https://codepen.io/mibo/project/full/ABKQYK
+### Live preview - https://codepen.io/mibo/project/full/ABKQYK
 
 If you don't have some specific keyboard for your PC (i.e. Hebrew / Russian / etc.) and you still need to type something in one of these languages it becomes to be a problem. You don't know blind-typing and you don't want to deal with mouse-clicking on virtual keyboard.
 
